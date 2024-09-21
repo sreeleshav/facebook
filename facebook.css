@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+
+}
+.back{
+    background-color: #3B5998;
+    height: 100px;
+    width: 100%;
+    position: relative;
+
+}
+.face{
+    color: white;
+    position: absolute;
+    top: 35px;
+    left: 176px;
+}
+.tble{
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 300px;
+}
+.hh1{
+    font-size: 47px;
+    font-family: HelveticaNeueW01-55Roma, HelveticaNeueW02-55Roma, HelveticaNeueW10-55Roma, sans-serif;
+
+}
+.bttn{
+    position: relative;
+    left: 12px;
+   
+}
+.img{
+    height: 268px;
+    width: 700px;
+    position: absolute;
+    top: 150px;
+    left: 160px;
+
+}
+.container{
+    background-color: #E2E5F0;
+    width: 100%;
+   
+    position: relative;
+    top: 110px;
+}
+.a{
+    position: absolute;
+    top: 40px;
+    left: 179px;
+    font-size: 27px;
+    font-weight: normal;
+}
+.form{
+    position: absolute;
+    float: right;
+    top: 131px;
+    left: 1250px;
+}
+.size{
+    height: 65px;
+    width: fit-content;
+}
+.size1{
+    height: 40px;
+    width: 200px;
+border-radius: 5px;
+    border-color: #3B5998;
+}
+.size2{
+    height:40px;
+    width: 350px;
+    border-color: #3B5998;
+    border-radius: 5px;
+
+}
+.para{
+    font-size: small;
+}
+.ff{
+    position: relative;
+    top: 92px;
+}
+.date{
+    position: absolute;
+    top: 294px;
+}
+.gender{
+    position: absolute;
+    top: 342px;
+}
+.bttn2{
+    height:50px;
+    width: 200px;
+    background-color: green;
+    border-radius: 5px;
+    border-color: black;
+    border: 10px;
+    color: rgb(31, 24, 24);
+    position: absolute;
+    top:450px;
+    text-align: center;
+    padding: 20px;
+   
+    
+
+}
